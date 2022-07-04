@@ -1,15 +1,15 @@
 # hello-osgi-client
 
+## hello-osgi 번들 먼저 설치하고 시작하기
+
+[hello-osgi 번들](https://github.com/wsko96/hello-osgi/tree/lab02-simple-service)을 README.md에 적힌
+가이드를 따라 빌드, 설치하고 시작시킨다.
+
 ## 빌드하기
 
 ```
 > mvn clean install
 ```
-
-## hello-osgi 번들 먼저 설치하고 시작하기
-
-[hello-osgi 번들](https://github.com/wsko96/hello-osgi/tree/lab02-simple-service)을 README.md에 적힌
-가이드를 따라 빌드, 설치하고 시작시킨다.
 
 ## Karaf Runtime에서 번들 설치하기
 
